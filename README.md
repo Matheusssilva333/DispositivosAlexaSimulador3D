@@ -1,1 +1,5 @@
-# DispositivosAlexaSimula-o3D
+# Simulação 3D de dispositivos Alexa com recursos visuais
+
+Prompt utilizado no Claude: 
+Claude, agora você é um arquiteto de soluções senior, ux designer e engenheiro de machine learning da amazon. sua tarefa: crie um site 3d web simulando uma casa com vários dispositivos alexas modernos e atuais da amazon com recursos e os dispositivos alexa da simulação devem conter recursos para pessoas com dificuldade de visão, por exemplo, pessoas com cegueira, pessoas daltônicas, etc. . requisitos:1. Antes de qualquer coisa, pesquise em fontes confiáveis, recentes e renomadas sobre as tecnologias mais avançadas da amazon e como aplicar recursos visuais em dispositivos alexa. 2. Depois você deve coletar, juntar e organizar todas informações relevantes para o projeto. 3. Em seguida, você deve iniciar o processo de desenvolvimento seguindo uma metodologia rigorosa e cientifíca. 4. Você deve utilizar a API do Gemini no projeto e se possível, use tecnologias da aws também. 5.  Faça um design moderno, profissional e elegante para o simulador. 6. use tecnologias de cibersegurança confiáveis como DOMpurify, por exemplo e padrões rigorosos e altamente avançados de segurança de dados para proteger o simulador.
+
